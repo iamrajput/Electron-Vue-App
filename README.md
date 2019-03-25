@@ -11,11 +11,11 @@ npm install
 ```
 That's It! You're ready to go!
 
-#To start a development server: If you use Yarn (strongly recommended):
+To start a development server: If you use Yarn (strongly recommended):
 ```
 yarn electron:serve
 ```
-#If you use NPM:
+If you use NPM:
 ```
 npm run electron:serve
 ```
